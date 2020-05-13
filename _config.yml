@@ -10,7 +10,7 @@ title: Your Blog Title
 description: '' # write a nice description for your blog
 baseurl: ''
 remote_theme: adueck/cayman-blog
-url: '' # the base hostname & protocol for your site http://www.example.com
+url: https://hyeonjinchoi.github.io/
 # google_analytics: 'UA-XXXXXX-X'
 twitter_username: 'twitter_username'
 
