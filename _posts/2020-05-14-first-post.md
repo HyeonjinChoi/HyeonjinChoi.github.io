@@ -1,10 +1,62 @@
 ---
 layout: post
-title: And subtle sharing popups...
+title: Media
+date: 2017-11-27 04:00:00
+tags: media test
+author: hanuman
 ---
 
-Check out the share/permalink at the bottom of each post. This gives you a nice popup that allows people to share the specific post, using pure CSS. Okay, so there's a weeee bit of js to allow for a 'copy to clipboard' button. But these sharing tools won't bloat your page, or look obnoxious.
+### Image
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<amp-img src="{{ site.baseurl }}assets/images/shiva.jpg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+<hr />
+
+### Image With Heading
+<figure class="ampstart-image-with-heading  m0 relative mb4">
+<amp-img src="{{ site.baseurl }}assets/images/shiva.jpg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<figcaption class="absolute right-0 bottom-0 left-0">
+<header class="ampstart-image-heading px2 py2 line-height-4"><h1>Shiva</h1></header>
+</figcaption>
+</figure>
+
+<hr/>
+
+### Image With Caption
+<figure class="ampstart-image-with-caption m0 relative mb4">
+<amp-img src="{{ site.baseurl }}assets/images/shiva.jpg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<figcaption class="h5 mt1 px3">Duis nec dolor et quam vulputate sagittis. Nam arcu ex, suscipit nec cursus a, volutpat sit amet felis.
+<span class="ampstart-image-credit block bold">
+Taken by
+<a href="#" role="author">Parvati</a>
+</span>
+</figcaption>
+</figure>
+
+<hr/>
+
+### Video
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+<amp-youtube width="480"
+  height="270"
+  layout="responsive"
+  data-videoid="lBTCB7yLs8Y">
+</amp-youtube>
+
+<hr />
+
+### Audio
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+<amp-audio width="auto"
+  height="50"
+  src="https://ia801402.us.archive.org/16/items/EDIS-SRP-0197-06/EDIS-SRP-0197-06.mp3">
+  <div fallback>
+    <p>Your browser doesn’t support HTML5 audio</p>
+  </div>
+</amp-audio>
