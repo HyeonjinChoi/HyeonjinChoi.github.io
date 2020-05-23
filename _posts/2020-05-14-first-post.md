@@ -1,19 +1,17 @@
 ---
 layout: post
-title:  "OSS-3 팀의 프로젝트 진행사항"
-date:   2019-05-14 21:03:36 +0530
+title:  "4. 팀 내에서 나의 역할"
+date:   2019-05-24
 ---
-OSS-3 팀은 '주니어 개발자 채용 공고'라는 프로젝트를 선정하였습니다.
-엔터가능 확인
+프로젝트를 진행하면서 수행할 저의 역할에 대한 포스트입니다.
 
-확인해볼 작업1
-
-![texture theme preview](./이산수학/2017312010_최현진 11주차 과제(8.1~8.2).jpg)
-
-확인해볼 작업2
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+저는 B팀에 속해 있어 전반적인 기여활동에 참여하게 되었습니다.
+따라서 저의 주 역할은 채용공고 갱신에 관한 일이 될 것입니다.
+여러 채용정보들을 수집하다보면 다양한 채용정보들이 모이게 되는데
+기존 저장소의 목적은 양질의 취업 정보를 한곳에 모으기 위함이기 때문에
+여과과정이 필요합니다. 양질의 정보를 골라낼 수 있게 선별과정에서 필요한 기준을 선정하는
+작업을 할 수 있습니다. 그리고 최근 commit을 찾아보면서 수정내역을 확인하였는데 
+채용정보가 추가되거나 삭제되는 일들이 한국어버전 README에서만 이루어지는 것을 알게
+되었습니다. 중국어에는 문외한이기 때문에 영어버전 README를 갱신하는데 
+기여할 수 있습니다. 프로젝트를 진행하다보면 추가적으로 필요한 기능이 떠오를 수도 있습니다. 예를 들어 평점 매기기와 같이 사람들이 채용정보를 확인할 때 좀 더 편의성면에서
+향상시킬 수 있는 작업을 모색할 수 있습니다.
