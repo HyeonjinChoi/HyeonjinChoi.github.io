@@ -1,12 +1,12 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: 최현진의 정적페이지
+description: 여기는 어떻게 쓰여질까 테스트~
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: 
+baseurl: ""
 remote_theme: samanyougarg/hanuman
-url: "https://samanyougarg.com" # the base hostname & protocol for your site
+url: "https://hyeonjinchoi.github.io/" # the base hostname & protocol for your site
 
 pagination:
 
