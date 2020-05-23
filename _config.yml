@@ -17,9 +17,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: | 
-  주니어 개발자 채용 공고
-  20-1-SKKU-OSS-3
+  title: |\ 
+  주니어 개발자 채용 공고\20-1-SKKU-OSS-3
   tagline: 2017312010 최현진
   date_format: "%b %-d, %Y"
   style: black
